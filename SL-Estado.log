@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.11.19)  23 NOV 2018 23:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.11.19)  24 NOV 2018 12:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -308,33 +308,33 @@ Package pdftex.def Info: title-slide.png  used on input line 34.
 Class slides Warning: Slide 1 too long on input line 35.
 
 [1 </home/marado/github/ANSOL-SL-Estado/title-slide.png>]
-LaTeX Font Info:    Try loading font information for OML+lcmm on input line 41.
+LaTeX Font Info:    Try loading font information for OML+lcmm on input line 42.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omllcmm.fd
 File: omllcmm.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 )
-LaTeX Font Info:    Try loading font information for OMS+lcmsy on input line 41
+LaTeX Font Info:    Try loading font information for OMS+lcmsy on input line 42
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omslcmsy.fd
 File: omslcmsy.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 )
-LaTeX Font Info:    Try loading font information for OMX+lcmex on input line 41
+LaTeX Font Info:    Try loading font information for OMX+lcmex on input line 42
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omxlcmex.fd
 File: omxlcmex.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 )
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <16.59> on input line 41.
+(Font)              <13.82> on input line 42.
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <12> on input line 41.
+(Font)              <10> on input line 42.
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <7> on input line 41.
+(Font)              <7> on input line 42.
  [2{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 (/home/marado/github/ANSOL-SL-Estado/ANSOL.tex
-<pct2001-miguelg.jpg, id=25, 425.59pt x 252.945pt>
+<pct2001-miguelg.jpg, id=26, 425.59pt x 252.945pt>
 File: pct2001-miguelg.jpg Graphic file (type jpg)
 <use pct2001-miguelg.jpg>
 Package pdftex.def Info: pct2001-miguelg.jpg  used on input line 36.
@@ -343,42 +343,46 @@ Package pdftex.def Info: pct2001-miguelg.jpg  used on input line 36.
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
 (Font)              <19.907> on input line 103.
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <13.82> on input line 103.
- [4] [5] [6]
-<pmpc-video.png, id=48, 572.1375pt x 357.58594pt>
+(Font)              <16.59> on input line 103.
+ [4]
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <12> on input line 117.
+ [5] [6]
+<pmpc-video.png, id=49, 572.1375pt x 357.58594pt>
 File: pmpc-video.png Graphic file (type png)
 <use pmpc-video.png>
 Package pdftex.def Info: pmpc-video.png  used on input line 476.
 (pdftex.def)             Requested size: 572.1361pt x 357.58505pt.
  [7 </home/marado/github/ANSOL-SL-Estado/pmpc-video.png (PNG copy)>])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 69.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 69.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
 
 (/home/marado/github/ANSOL-SL-Estado/SL-Estado.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 69.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 69.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
 Package rerunfilecheck Info: File `SL-Estado.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 69.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
  ) 
 Here is how much of TeX's memory you used:
- 5576 strings out of 494586
- 83864 string characters out of 6177801
+ 5582 strings out of 494586
+ 83953 string characters out of 6177801
  163182 words of memory out of 5000000
- 9145 multiletter control sequences out of 15000+600000
- 12363 words of font info for 35 fonts, out of 8000000 for 9000
+ 9151 multiletter control sequences out of 15000+600000
+ 14042 words of font info for 39 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  28i,5n,30p,242b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/marado/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/eclq8.900pk
 > </home/marado/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecli8.1244pk
-> </home/marado/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecli8.1493pk
-> </home/marado/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/eclq8.1493pk
 > </home/marado/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/eclq8.1244pk
+> </home/marado/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecli8.1493pk
+> </home/marado/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/eclq8.1037pk
+> </home/marado/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/eclq8.1493pk
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on SL-Estado.pdf (8 pages, 568676 bytes).
+Output written on SL-Estado.pdf (8 pages, 578122 bytes).
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 264 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
  9 named destinations out of 1000 (max. 500000)
  25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
